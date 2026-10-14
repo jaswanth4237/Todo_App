@@ -1,6 +1,5 @@
 # Todo App (Full Stack)
-
-A simple full‑stack Todo application with a Node.js/Express + MongoDB backend and a Flutter frontend.
+ simple full‑stack Todo application with a Node.js/Express + MongoDB backend and a Flutter frontend.
 
 ## Features
 - User registration and sign‑in.
